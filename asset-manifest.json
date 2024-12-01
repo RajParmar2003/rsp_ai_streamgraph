@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rsp_ai_streamgraph/static/css/main.e6c13ad2.css",
+    "main.js": "/rsp_ai_streamgraph/static/js/main.63d32ddd.js",
+    "index.html": "/rsp_ai_streamgraph/index.html",
+    "main.e6c13ad2.css.map": "/rsp_ai_streamgraph/static/css/main.e6c13ad2.css.map",
+    "main.63d32ddd.js.map": "/rsp_ai_streamgraph/static/js/main.63d32ddd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.63d32ddd.js"
+  ]
+}
